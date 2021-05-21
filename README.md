@@ -146,6 +146,7 @@ with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/19
 
 ### 2016
 - <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
+- <a name="todo"></a> Incremental learning algorithms and applications (**ESANN2016**) [[paper](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)]
 
 ## [Awesome Long-Tailed Recognition / Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
 #### Find it interesting that there are more shared techniques than I thought for incremental learning (exemplars-based). 
